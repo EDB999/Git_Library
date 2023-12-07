@@ -114,10 +114,10 @@
 - cp file.txt ~/my-dir (от англ. copy, «копировать») — скопируй файл в другое место; <br>
 - mv file.txt ~/my-dir (от англ. move, «переместить») — перемести файл или папку в другое место. <br>
 
-####Чтение
+#### Чтение
 -cat file.txt (от англ. concatenate and print, «объединить и распечатать») — распечатай содержимое текстового файла file.txt. <br>
 
-####Удаление
+#### Удаление
 - rm about.html (от англ. remove, «удалить») — удали файл about.html; <br>
 - rmdir images (от англ. remove directory, «удалить директорию») — удали папку images; <br>
 - rm -r second-project (от англ. remove, «удалить» + recursive, «рекурсивный») — удали папку second-project и всё, что она содержит.<br>
